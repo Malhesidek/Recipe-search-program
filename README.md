@@ -1,1 +1,1 @@
-# Lab2
+# Recipe search program
